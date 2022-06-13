@@ -10,3 +10,4 @@ Finally, creating web app for the model and hosting online
 - Training of ML model for classification with processed data
 - Build web app: Front end with HTML & CSS, Back-end with Python (Flask)
 - Host web-app on Heroku
+ #### NOTE: Project still build
