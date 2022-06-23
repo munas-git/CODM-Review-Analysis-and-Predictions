@@ -4,8 +4,8 @@ Building ML model to classify new reviews.
 Finally, creating web app for the model and hosting online
 
 ### Project work summary
-- Scraping data (Reviews and corresponding rating) with self built web crawler/scraper
-- Converting scraped data into data frame then saved as csv
+- Scraping data from google play store (Reviews and corresponding rating) with self built web crawler/scraper
+- Converted scraped data into data frame then saved as csv
 - Sentiment analysis (NLP)
 - Training of ML model for classification with processed data
 - Build web app: Front end with HTML & CSS, Back-end with Python (Flask)
